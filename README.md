@@ -7,8 +7,8 @@ I am a cybersecurity professional specializing in network security, ethical hack
 ---
 
 ## 🔐 About Me
-- **Current Role**: [Your Job Title], focusing on [Your Focus Area]
-- **Experience**: X years in cybersecurity with expertise in intrusion detection, malware analysis, and risk assessment.
+- **Current Role**: Research Chemist, focusing on Analytical Chemistry & Proteomics >> Transitioning to M.S. in Computer Science in addition to a 6 month Cybersecurity Bootcamp
+- **Experience**: 1 years in cybersecurity with expertise in intrusion detection, malware analysis, and risk assessment.
 - **Certifications**: CompTIA Security+
 - **Tech Stack**: Python, Bash, SQL, Wireshark, Metasploit, Nmap, Burp Suite
 
@@ -43,7 +43,6 @@ A tool for identifying phishing emails based on URL analysis and content filteri
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/michaellamontandrews) 
-- [Twitter](https://twitter.com/YourHandle) 
 - [Email](mailto:myke.gsu@gmail.com)
 
 ---
@@ -52,5 +51,4 @@ A tool for identifying phishing emails based on URL analysis and content filteri
 
 <!---
 cyber-myke/cyber-myke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
