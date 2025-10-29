@@ -13,7 +13,7 @@ I am a cybersecurity professional specializing in network security, ethical hack
 ## 👨🏾‍💻 Ethical Hacking Projects
 - **[Analyzing Network Vulnerabilities with Python](https://github.com/cyber-myke/Ethical_Hacking/blob/main/Analyzing_Network_Vulnerabilities_with_Python.md)**
 - **[Penetration Testing](https://github.com/cyber-myke/Penetration_Testing/blob/main/README.md)**
-- **[Creating a Secure Network](
+- **[Creating a Secure Network](https://github.com/cyber-myke/Creating-a-secure-network/blob/main/README.md)**
 
 <hr/>
 
