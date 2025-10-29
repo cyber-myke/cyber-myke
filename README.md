@@ -11,7 +11,9 @@ I am a cybersecurity professional specializing in network security, ethical hack
 - **[Threat Hunting Scenario (Tor Browser)](https://github.com/cyber-myke/threat_hunting_scenario_tor)**
 
 ## 👨🏾‍💻 Ethical Hacking Projects
-- **[Analyzing Network Vulnerabilities with Python](https://github.com/cyber-myke/GaSouthernUniv/tree/main/Ethical_Hacking)**
+- **[Analyzing Network Vulnerabilities with Python](https://github.com/cyber-myke/Ethical_Hacking/blob/main/Analyzing_Network_Vulnerabilities_with_Python.md)**
+- **[Penetration Testing](https://github.com/cyber-myke/Penetration_Testing/blob/main/README.md)**
+- **[Creating a Secure Network](
 
 <hr/>
 
