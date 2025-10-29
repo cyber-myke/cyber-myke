@@ -10,7 +10,7 @@ I am a cybersecurity professional specializing in network security, ethical hack
 ## 🚨 Threat Hunting & Security Operations
 - **[Threat Hunting Scenario (Tor Browser)](https://github.com/cyber-myke/threat_hunting_scenario_tor)**
 
-## 💻 Ethical Hacking Projects
+## 👨🏾‍💻 Ethical Hacking Projects
 - **[Ethical Hacking Projects](https://github.com/cyber-myke/GaSouthernUniv/tree/main/Ethical_Hacking)**
 
 <hr/>
