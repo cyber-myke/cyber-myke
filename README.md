@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/michaellamontandrews/">Michael Andrews's</a> IT, AI, & Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/michaellamontandrews/">Michael Andrews's</a> Cybersecurity Project Portfolio 🔐
 
 I am a cybersecurity professional specializing in network security, ethical hacking, and threat intelligence. I have hands-on experience with vulnerability scanning, penetration testing, and building robust security defenses. These project have launched me into an ever-evolving realm of cybersecurity.
 
